@@ -113,9 +113,16 @@
   
 <section>
   <h2>Biografía</h2>
-  <div style="text-align: center; margin-bottom: 15px;">
-    <img src="foto.jpg" alt="Nayeli Sucasaca" style="width: 150px; border-radius: 50%;">
-  </div>
+  <div style="text-align: center; margin: 20px 0;">
+  <img src="perfil.jfif" alt="Foto de Nayeli" style="
+    width: 180px; 
+    height: 180px; 
+    border-radius: 50%; 
+    border: 5px solid #7b1fa2; 
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  ">
+</div>
   <main>
     
       <p>
