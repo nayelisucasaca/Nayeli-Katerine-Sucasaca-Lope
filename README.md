@@ -115,7 +115,7 @@
 <section>
   <h2>Biografía</h2>
   <div style="text-align: center; margin-bottom: 15px;">
-    <img src="foto-perfil.jpg" alt="Nayeli Sucasaca" style="width: 150px; border-radius: 50%;">
+    <img src="foto.jpg" alt="Nayeli Sucasaca" style="width: 150px; border-radius: 50%;">
   </div>
   <main>
     
