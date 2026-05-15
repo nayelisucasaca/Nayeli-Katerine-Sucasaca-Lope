@@ -1,4 +1,3 @@
-# Nayeli-Katerine-Sucasaca-Lope
 <!DOCTYPE html>
 <html lang="es">
 <head>
